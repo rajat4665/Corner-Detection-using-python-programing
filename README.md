@@ -6,7 +6,7 @@ In this Repository I am gonna show you practical implementation of  Harris corne
 <h3></h3>
 <h3>How to run this code:</h3>
 <ul>
-	<li>download this code from my <a href="https://github.com/rajat4665/Corner-Detection-using-python-programing" target="_blank" rel="noopener">GitHub</a></li>
+	<li>Fore more details visit my  <a href="https://getpython.wordpress.com/2019/07/10/corner-detection-using-harris-corner-in-python-programming/" rel="noopener">blog</a></li>
 	<li>clone this repository</li>
 	<li>open it into Jupyter notebook</li>
 	<li>Now run its cells one by one</li>
