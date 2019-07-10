@@ -30,3 +30,8 @@ Hello friends, welcome back to my another repository on Computer Vision. Have yo
 Basically, image is a set of numerical data in which each pixel has a value from 0 to 255 according to color space. If I am talking about a color image which is consist of three channels (Red, Green, Blue), Here three sheets of RGB placed in a single stack whereas if we talk about grayscale images which consist of a single channel where the value of pixels varies from 0 to 255 in which 0 means black and 255 mean white.
 <h3><b> Corner Detector:</b></h3>
 There are many methods for corner detection but here I would like to talk about the Harris corner detector, later on, I will implement it in OpenCV.<b> Harris Corner Detector</b> is a corner detection operator that is commonly used in computer vision algorithms to extract corners and infer features of an image. It was first introduced by Chris Harris and Mike Stephens in 1988 upon the improvement of Moravec's corner detector. It is being used from many decades in the world of computer vision to detect corners from an image due to good accuracy and it is easy to implement.
+
+<h1>Input:</h1>
+<img class="alignnone size-full wp-image-133" src="https://getpython.files.wordpress.com/2019/07/photo-1502370414204-7e128f26d730.jpeg" alt="photo-1502370414204-7e128f26d730" width="750" height="500" />
+<h1>Output:</h1>
+<img class="alignnone size-full wp-image-134" src="https://getpython.files.wordpress.com/2019/07/cornerdetected_image.jpg" alt="_cornerDetected_image" width="750" height="500" />
